@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  title = 'Dogs bruh';
+  data = 'Things bruh';
+  // This is a component, put all JS in here.
 }

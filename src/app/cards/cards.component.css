@@ -1,0 +1,22 @@
+.card{
+    text-align: center;
+}
+
+.column{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    margin-left: 6%;
+}
+
+.row{
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
